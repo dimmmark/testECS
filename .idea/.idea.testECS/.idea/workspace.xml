@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4514bb88-1254-4da7-8eba-2ef3a379b428" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/PlayerInitSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/Movable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/Follow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/FollowComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/MovableComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/InputEventComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/GameInitSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/PlayerComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/PositionComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/PositionSyncSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/PlayerInputSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/UnityComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EcsStartup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/MoveSpeedComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Components/EnemyComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/EnemySpawnSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/EnemyMovementSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Systems/CollisionSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameStartup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfigsSO/PlayerSettingsSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfigsSO/EnemySettingsSO.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2i5QRGXXMxxS0DCpUVS8RVcWlXx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4514bb88-1254-4da7-8eba-2ef3a379b428" name="Default Changelist" comment="" />
+      <created>1718777952079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718777952079</updated>
+      <workItem from="1718777962371" duration="1069000" />
+      <workItem from="1718779075457" duration="8228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2638" y="417" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1718786630913">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2638" y="417" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1718786630913" />
+  </component>
+</project>
